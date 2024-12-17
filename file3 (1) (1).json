@@ -1,0 +1,1239 @@
+[
+    {
+      "question": "Halo",
+      "answer": "Halo! Apa yang bisa saya bantu hari ini?"
+    },
+    {
+      "question": "Apa itu land rent?",
+      "answer": "Land rent adalah sebuah web yang menyediakan jasa sewa lahan tanah."
+    },
+    {
+      "question": "Apakah ada batasan waktu untuk sewa lahan?",
+      "answer": "Biasanya kami menawarkan pilihan sewa jangka pendek (bulanan) hingga jangka panjang (tahunan)."
+    },
+    {
+      "question": "Berapa harga sewa lahan perbulan?",
+      "answer": "Harga sewa lahan bisa bervariasi tergantung lokasi, ukuran, dan jenis lahan. ?"
+    },
+    {
+      "question": "Apa saja fasilitas yang tersedia dilahan yang disewakan?",
+      "answer": "Fasilitas yang tersedia bisa berbeda-beda tergantung lokasi dan jenis lahan. Beberapa lahan dilengkapi dengan akses jalan, sumber air, dan listrik.."
+    },
+    {
+      "question": "Bagaimana prosedur sewa lahan?",
+      "answer": "Prosedur sewa lahan kami cukup mudah. Setelah memilih lahan yang diinginkan, Anda akan diminta untuk mengisi formulir sewa dan menandatangani kontrak. Pembayaran bisa dilakukan melalui transfer bank atau tunai.."
+    },
+    {
+      "question": "Apakah saya bisa melihat lahan terlebih dahulu sebelum memutuskan?",
+      "answer": "Tentu! Anda bisa mengunjungi lahan terlebih dahulu untuk memastikan kondisi dan kecocokannya dengan kebutuhan Anda. ."
+    },
+    {
+      "question": "Apa yang terjadi jika saya ingin mengakhiri kontrak sewa lebih awal?",
+      "answer": "Jika Anda ingin mengakhiri kontrak sewa sebelum waktu yang disepakati, biasanya ada biaya pemutusan kontrak lebih awal. Ketentuan ini bisa bervariasi tergantung pada durasi kontrak dan syarat yang telah disepakati."
+    },
+    {
+      "question": "Terima kasih",
+      "answer": "Sama-sama! Jika ada yang lain yang perlu dibantu, jangan ragu untuk bertanya."
+    },
+    {
+      "question": "Bye",
+      "answer": "Selamat tinggal! Semoga hari Anda menyenankan."
+    },
+    {
+      "question": "Apa yang terjadi jika saya ingin mengakhiri kontrak sewa lebih awal?",
+      "answer": "Jika anda ingin mengakhiri kontrak sewa sebelum waktu yang disepakati,biasanya ada biaya pemutusan kontrak lebih awal."
+    },
+    {
+      "question": "Apakah lahan ini bisa digunakan untuk kegiatan pertanian?",
+      "answer": "Ya,website yang kita sediakan terakit sewa lahan pertanian."
+    },
+    {
+      "question": "Apa persyaratan untuk menyewa lahan?",
+      "answer": "Persyaratan umum untuk menyewa lahan termasuk identitas diri (KTP atau paspor), bukti alamat, dan untuk sewa jangka panjang, bisa dibutuhkan referensi atau informasi usaha."
+    },
+    {
+      "question": "Apakah ada diskon atau promo untuk penyewa baru?",
+      "answer": " Kami terkadang menawarkan promo atau diskon untuk penyewa baru, tergantung pada periode tertentu. Apakah Anda tertarik untuk mengetahui lebih lanjut tentang promosi yang sedang berlangsung?"
+    },
+    {
+      "question": "Apakah lahan yang disewakan dilengkapi dengan sumber air?",
+      "answer": "Beberapa lahan kami dilengkapi dengan sumber air seperti sumur atau irigasi. Anda bisa memilih lahan yang sesuai dengan kebutuhan Anda."
+    },
+    {
+      "question": " Apakah lahan dilengkapi dengan listrik dan akses jalan?",
+      "answer": " Kami menyediakan lahan dengan berbagai fasilitas, termasuk akses jalan dan listrik di lokasi tertentu. Anda bisa memilih lahan dengan fasilitas yang Anda butuhkan."
+    },
+    {
+      "question": "Dapatkah saya menanam tanaman di lahan yang saya sewa?",
+      "answer": "Tentu! Anda bisa menggunakan lahan untuk kegiatan pertanian, seperti menanam tanaman. Kami akan memberikan informasi terkait jenis tanah dan keperluan lainnya."
+    },
+    {
+      "question": "Apakah saya bisa memodifikasi lahan yang disewa?",
+      "answer": " Beberapa perubahan atau modifikasi lahan bisa dilakukan, tergantung pada ketentuan dalam kontrak sewa. Kami akan membahas hal ini lebih lanjut sebelum Anda menandatangani kontrak."
+    },
+    {
+      "question": "Bagaimana cara mengecek kondisi lahan yang ingin saya sewa?",
+      "answer": "Anda dapat mengunjungi lahan langsung atau meminta foto dan detail kondisi lahan melalui kami. Kami juga bisa memberikan informasi terkait status tanah tersebut."
+    },
+    {
+      "question": "Apakah ada biaya untuk melakukan kunjungan ke lahan?",
+      "answer": "Tidak, kunjungan ke lahan adalah gratis. Kami hanya memerlukan waktu Anda untuk mengatur jadwal kunjungan."
+    },
+    {
+      "question": "Jika lahan yang saya pilih tidak sesuai, apa yang bisa saya lakukan?",
+      "answer"  :"Jika lahan yang Anda pilih tidak sesuai, kami bisa membantu Anda mencari pilihan lain yang lebih sesuai dengan kebutuhan Anda."
+    },
+    {
+      "question": " Apa yang harus saya bawa saat melakukan kunjungan ke lahan?",
+      "answer": " Anda cukup membawa identitas diri (KTP) untuk kunjungan, dan jika ingin melanjutkan sewa, Anda akan diminta melengkapi dokumen lain saat pengajuan."
+    },
+    {
+      "question": "Selamat pagi",
+      "answer": "Pagi,ada yang bisa saya bantu?"
+    },
+    {
+      "question": "Selamat malam",
+      "answer": "Malam,ada yang bisa saya bantu?"
+    },
+    {
+      "question": "Apa itu layanan chatbot ini?",
+      "answer":" Ini adalah layanan chatbot yang dirancang untuk membantu Anda dengan berbagai informasi dan layanan, mulai dari pemesanan, pertanyaan produk, hingga pertanyaan umum."
+    },
+    {
+      "question": "Bagaimana saya bisa menggunakan chatbot ini?",
+      "answer": "Anda cukup mengajukan pertanyaan atau memberikan perintah, dan saya akan memberikan jawaban atau membantu Anda dengan informasi yang dibutuhkan."
+    },
+    {
+      "question": "Apakah chatbot ini tersedia 24 jam?",
+      "answer": " Ya, saya tersedia 24 jam untuk membantu Anda kapan saja."
+    },
+    {
+      "question": "Apakah saya perlu membuat akun untuk menggunakan layanan ini?",
+      "answer": "Tidak, Anda tidak perlu membuat akun untuk menggunakan layanan ini. Anda bisa langsung bertanya dan mendapatkan jawaban."
+    },
+    {
+      "question": "Apa yang bisa saya lakukan dengan chatbot ini?",
+      "answer": "Anda bisa meminta informasi, mendapatkan bantuan dengan pemesanan, melaporkan masalah, atau bahkan mencari produk yang Anda butuhkan."
+    },
+    {
+      "question": "Apakah ada biaya tambahan dalam pembayaran?",
+      "answer": "Tergantung pada layanan atau produk yang Anda pilih, ada beberapa biaya tambahan seperti biaya pengiriman atau biaya administrasi."
+    },
+    {
+      "question": "Bagaimana cara mengajukan refund?",
+      "answer": "Anda bisa mengajukan refund dengan menghubungi customer service atau melalui menu pengembalian produk pada akun Anda."
+    },
+    {
+      "question": " Apakah lahan ini tersedia di stok?",
+      "answer": " Saya bisa memeriksa lahan yang Anda inginkan. Sebutkan nama lahan atau kategori untuk saya cek."
+    },
+    {
+      "question": "Apakah lahan ini aman untuk digunakan?",
+      "answer": "Ya,lahan ini aman untuk digunakan"
+    },
+    {
+      "question": "Bagaimana cara membuat akun di platform ini?",
+      "answer": "Anda bisa membuat akun dengan mengisi formulir pendaftaran di halaman registrasi, menggunakan email atau akun media sosial."
+    },
+    {
+      "question": "Lupa password, bagaimana cara meresetnya?",
+      "answer": "Anda dapat mereset password melalui opsi Lupa Password pada halaman login, lalu ikuti instruksi untuk membuat password baru."
+    },
+    {
+      "question": "Bagaimana cara memperbarui informasi akun saya?",
+      "answer": "Anda bisa memperbarui informasi akun Anda di bagian Pengaturan Akun setelah login, termasuk alamat, kontak, dan preferensi lainnya."
+    },
+    {
+      "question": "Apakah saya bisa menghapus akun saya?",
+      "answer": "Ya, jika Anda ingin menghapus akun, Anda bisa menghubungi customer service untuk membantu proses penghapusan akun."
+    },
+    {
+      "question": "Apa yang harus saya lakukan jika akun saya diblokir?",
+      "answer": "Jika akun Anda diblokir, Anda dapat menghubungi customer service untuk mengetahui alasan pemblokiran dan meminta solusi."
+    },
+    {
+      "question": "Bagaimana cara menggunakan fitur pencarian produk?",
+      "answer": "Anda dapat mengetik nama produk atau kategori yang Anda cari di kolom pencarian untuk menemukan hasil yang relevan."
+    },
+    {
+      "question": " Bagaimana cara menghubungi customer service?",
+      "answer": "Anda bisa menghubungi customer service melalui email, nomor telepon, atau live chat yang tersedia di halaman kontak."
+    },
+    {
+      "question": "Apakah ada aplikasi mobile untuk layanan ini?", 
+      "answer": "Tidak"
+    },
+    {
+      "question": "Apakah informasi saya aman di platform ini?", 
+      "answer": "Ya, kami menggunakan enkripsi dan sistem keamanan terbaru untuk melindungi informasi pribadi Anda."
+    },
+    {
+      "question": "Bagaimana cara mengubah pengaturan privasi saya?",
+      "answer": "Anda bisa mengubah pengaturan privasi di bagian Pengaturan Akun untuk memilih apa yang ingin dibagikan atau disembunyikan."
+    },
+    {
+      "question": "Apakah saya bisa menghapus data pribadi saya dari sistem?", 
+      "answer": "Anda bisa menghubungi kami untuk meminta penghapusan data pribadi dari sistem kami sesuai dengan kebijakan privasi yang berlaku."
+    },
+    {
+      "question": "Apakah transaksi saya aman di platform ini?", 
+      "answer": "Ya, semua transaksi menggunakan sistem pembayaran yang aman dan terverifikasi untuk melindungi data kartu Anda."
+    },
+    {
+      "question": "Apakah platform ini memiliki sertifikasi keamanan?",
+      "answer": "Kami telah mendapatkan sertifikasi keamanan standar industri untuk melindungi data pelanggan dan transaksi online."
+    },
+    {
+      "question": " Apakah layanan ini tersedia di kota saya?", 
+      "answer": "Kami menyediakan layanan di banyak kota. Berikan nama kota Anda dan saya akan memeriksa ketersediaannya untuk Anda." 
+    },
+    {
+      "question": " Apakah ada cabang atau toko fisik di dekat saya?", 
+      "answer": "Tidak."
+    },
+    {
+      "question": "Bagaimana cara mengajukan keluhan?", 
+      "answer": "Anda bisa mengajukan keluhan melalui formulir pengaduan di situs kami atau menghubungi customer service melalui chat atau email."
+    },
+    {
+      "question": "Apakah layanan pelanggan tersedia dalam bahasa lain selain bahasa Indonesia?", 
+      "answer": "Ya, layanan pelanggan kami tersedia dalam beberapa bahasa, termasuk Inggris. Anda bisa memilih bahasa sesuai preferensi Anda."
+    },
+    {
+      "question": "Berapa lama waktu tanggapan layanan pelanggan?", 
+      "answer": "Kami berusaha merespons dalam waktu 24 jam. Jika Anda membutuhkan bantuan segera, Anda bisa mencoba fitur live chat."
+    },
+    {
+      "question": "Apakah saya bisa menghubungi layanan pelanggan lewat telepon?", 
+      "answer": "Ya, kami menyediakan layanan pelanggan melalui telepon. Anda bisa menemukan nomor kontak di halaman Kontak Kami."
+    },
+    {
+      "question": "Apakah ada program loyalitas untuk pelanggan tetap?", 
+      "answer": "Ya, kami memiliki program loyalitas untuk pelanggan tetap, yang memberikan diskon khusus dan hadiah setelah pembelian tertentu."
+    },
+    {
+      "question": "Apakah ada diskon untuk pelanggan baru?", 
+      "answer": "Ya, kami sering memberikan diskon khusus untuk pelanggan baru. Pastikan untuk memeriksa email konfirmasi pendaftaran atau halaman promo kami."
+    },
+    {
+      "question": "Bagaimana cara mendapatkan kupon diskon?", 
+      "answer": "Anda bisa mendapatkan kupon diskon dengan mengikuti kami di media sosial."
+    },
+    {
+      "question": "Apakah diskon dapat digabungkan dengan promo lainnya?", 
+      "answer": "Biasanya, diskon tidak dapat digabungkan dengan promo lain, tetapi Anda bisa memeriksa syarat dan ketentuan untuk memastikan."
+    },
+    {
+      "question": " Apa itu promo flash sale?", 
+      "answer": "Promo flash sale adalah penawaran terbatas dengan diskon besar untuk produk tertentu, biasanya berlangsung hanya dalam beberapa jam atau hari."
+    },
+    {
+      "question": "Bagaimana cara mengetahui promo terbaru?",
+      "answer": "Anda bisa memeriksa bagian Promo Terbaru di situs kami atau mengikuti kami di media sosial untuk pembaruan terbaru tentang diskon dan penawaran."
+    },
+    {
+      "question": "Apakah ada promo khusus untuk pembelian dalam jumlah besar?", 
+      "answer": "Ya, kami menawarkan diskon untuk pembelian dalam jumlah besar. Silakan hubungi kami untuk mendapatkan penawaran khusus."
+    },
+    {
+      "question": "Bisakah saya menggunakan kode promo pada transaksi saya?",
+      "answer": "Tentu! Masukkan kode promo saat checkout untuk mendapatkan diskon sesuai dengan syarat dan ketentuan yang berlaku."
+    },
+    {
+      "question": "Apakah ada promo spesial untuk hari libur atau perayaan?",
+      "answer": "Kami sering mengadakan promo spesial pada hari libur besar atau perayaan tertentu, seperti diskon atau hadiah untuk pelanggan."
+    },
+    {
+      "question": "Bagaimana cara mengubah email akun saya?",
+      "answer": "Anda dapat mengubah alamat email di bagian Pengaturan Akun setelah login ke platform kami."
+    },
+    {
+      "question": "Apakah saya bisa memiliki lebih dari satu akun?",
+      "answer": "Secara umum, Anda hanya bisa memiliki satu akun untuk setiap alamat email. Jika ada masalah, kami bisa membantu."
+    },
+    {
+      "question": "Mengapa saya tidak bisa masuk ke akun saya?",
+      "answer": "Pastikan Anda memasukkan email dan password dengan benar. Jika masalah masih terjadi, coba reset password atau hubungi customer service kami."
+    },
+    {
+      "question": " Bagaimana cara menghapus akun saya?",
+      "answer": "Anda bisa menghapus akun dengan menghubungi customer service kami untuk proses lebih lanjut."
+    },
+    {
+      "question": "Apakah data saya aman saat bertransaksi di situs ini?",
+      "answer": "Ya, kami menggunakan enkripsi dan teknologi keamanan untuk melindungi informasi pribadi dan transaksi Anda."
+    },
+    {
+      "question": "Apakah situs ini dilengkapi dengan proteksi anti-penipuan?",
+      "answer": "Ya, kami memiliki sistem deteksi penipuan untuk melindungi Anda dari transaksi yang mencurigakan."
+    },
+    {
+      "question": "Apakah Anda membagikan informasi pribadi saya kepada pihak ketiga?",
+      "answer": "Kami tidak membagikan informasi pribadi Anda kepada pihak ketiga tanpa izin Anda, kecuali untuk keperluan pengiriman atau kewajiban hukum."
+    },
+    {
+      "question": "Bagaimana saya bisa memastikan transaksi saya aman?",
+      "answer": "Pastikan Anda menggunakan metode pembayaran yang aman dan memeriksa URL situs untuk memastikan bahwa Anda bertransaksi di situs yang aman."
+    },
+    {
+      "question": "Apakah saya bisa mengubah pengaturan privasi saya?",
+      "answer": "Ya, Anda bisa mengubah pengaturan privasi Anda melalui akun untuk memilih informasi mana yang ingin Anda bagikan."
+    },
+    {
+      "question": "Bagaimana cara menggunakan fitur pencarian produk?",
+      "answer": "Anda bisa mengetikkan nama produk atau kategori di kotak pencarian, dan saya akan membantu menemukan produk yang sesuai."
+    },
+    {
+      "question": "Apakah saya bisa menyimpan produk favorit saya?",
+      "answer": "Anda bisa menambahkan produk ke daftar favorit atau wishlist di akun Anda untuk membeli nanti."
+    },
+    {
+      "question": "Apakah situs ini memiliki fitur bandingkan produk?",
+      "answer": "Ya, kami memiliki fitur untuk membandingkan beberapa produk berdasarkan spesifikasi dan harga."
+    },
+    {
+      "question": "Apakah saya bisa melihat riwayat pembelian saya?",
+      "answer": "Ya, Anda dapat melihat riwayat pembelian di bagian Akun Saya pada profil Anda."
+    },
+    {
+      "question": "Bagaimana cara memberikan ulasan untuk produk yang sudah saya beli?",
+      "answer": " Anda bisa memberikan ulasan produk setelah melakukan pembelian melalui halaman produk. Cukup beri penilaian dan komentar Anda."
+    },
+    {
+      "question": "Apakah saya bisa mendapatkan bantuan langsung dari manusia?",
+      "answer": "Tentu, jika Anda membutuhkan bantuan lebih lanjut, kami dapat menghubungkan Anda dengan customer service manusia."
+    },
+    {
+      "question": "Apakah layanan ini terbatas hanya pada produk tertentu?",
+      "answer": "Kami menawarkan layanan untuk berbagai jenis produk dan layanan, jadi silakan beri tahu saya produk atau kategori yang Anda cari."
+    },
+    {
+      "question": "Apakah ada biaya untuk menggunakan layanan ini?",
+      "answer": "Layanan chatbot ini gratis untuk digunakan. Namun, biaya tertentu mungkin berlaku untuk layanan atau produk tertentu."
+    },
+    {
+      "question": "Apa itu land rent?",
+      "answer": "Land rent adalah sebuah web yang menyediakan jasa sewa lahan tanah."
+    },
+    {
+      "question": "Apakah ada batasan waktu untuk sewa lahan?",
+      "answer": "Biasanya kami menawarkan pilihan sewa jangka pendek (bulanan) hingga jangka panjang (tahunan)."
+    },
+    {
+      "question": "Berapa harga sewa lahan perbulan?",
+      "answer": "Harga sewa lahan bisa bervariasi tergantung lokasi, ukuran, dan jenis lahan. ?"
+    },
+    {
+      "question": "Apa saja fasilitas yang tersedia dilahan yang disewakan?",
+      "answer": "Fasilitas yang tersedia bisa berbeda-beda tergantung lokasi dan jenis lahan. Beberapa lahan dilengkapi dengan akses jalan, sumber air, dan listrik.."
+    },
+    {
+      "question": "Bagaimana prosedur sewa lahan?",
+      "answer": "Prosedur sewa lahan kami cukup mudah. Setelah memilih lahan yang diinginkan, Anda akan diminta untuk mengisi formulir sewa dan menandatangani kontrak. Pembayaran bisa dilakukan melalui transfer bank atau tunai.."
+    },
+    {
+      "question": "Apakah saya bisa melihat lahan terlebih dahulu sebelum memutuskan?",
+      "answer": "Tentu! Anda bisa mengunjungi lahan terlebih dahulu untuk memastikan kondisi dan kecocokannya dengan kebutuhan Anda. ."
+    },
+    {
+      "question": "Apa yang terjadi jika saya ingin mengakhiri kontrak sewa lebih awal?",
+      "answer": "Jika Anda ingin mengakhiri kontrak sewa sebelum waktu yang disepakati, biasanya ada biaya pemutusan kontrak lebih awal. Ketentuan ini bisa bervariasi tergantung pada durasi kontrak dan syarat yang telah disepakati."
+    },
+    {
+      "question": "Terima kasih",
+      "answer": "Sama-sama! Jika ada yang lain yang perlu dibantu, jangan ragu untuk bertanya."
+    },
+    {
+      "question": "Bye",
+      "answer": "Selamat tinggal! Semoga hari Anda menyenankan."
+    },
+    {
+      "question": "Apa yang terjadi jika saya ingin mengakhiri kontrak sewa lebih awal?",
+      "answer": "Jika anda ingin mengakhiri kontrak sewa sebelum waktu yang disepakati,biasanya ada biaya pemutusan kontrak lebih awal."
+    },
+    {
+      "question": "Apakah lahan ini bisa digunakan untuk kegiatan pertanian?",
+      "answer": "Ya,website yang kita sediakan terakit sewa lahan pertanian."
+    },
+    {
+      "question": "Apa persyaratan untuk menyewa lahan?",
+      "answer": "Persyaratan umum untuk menyewa lahan termasuk identitas diri (KTP atau paspor), bukti alamat, dan untuk sewa jangka panjang, bisa dibutuhkan referensi atau informasi usaha."
+    },
+    {
+      "question": "Apakah ada diskon atau promo untuk penyewa baru?",
+      "answer": " Kami terkadang menawarkan promo atau diskon untuk penyewa baru, tergantung pada periode tertentu. Apakah Anda tertarik untuk mengetahui lebih lanjut tentang promosi yang sedang berlangsung?"
+    },
+    {
+      "question": "Apakah lahan yang disewakan dilengkapi dengan sumber air?",
+      "answer": "Beberapa lahan kami dilengkapi dengan sumber air seperti sumur atau irigasi. Anda bisa memilih lahan yang sesuai dengan kebutuhan Anda."
+    },
+    {
+      "question": " Apakah lahan dilengkapi dengan listrik dan akses jalan?",
+      "answer": " Kami menyediakan lahan dengan berbagai fasilitas, termasuk akses jalan dan listrik di lokasi tertentu. Anda bisa memilih lahan dengan fasilitas yang Anda butuhkan."
+    },
+    {
+      "question": "Dapatkah saya menanam tanaman di lahan yang saya sewa?",
+      "answer": "Tentu! Anda bisa menggunakan lahan untuk kegiatan pertanian, seperti menanam tanaman. Kami akan memberikan informasi terkait jenis tanah dan keperluan lainnya."
+    },
+    {
+      "question": "Apakah saya bisa memodifikasi lahan yang disewa?",
+      "answer": " Beberapa perubahan atau modifikasi lahan bisa dilakukan, tergantung pada ketentuan dalam kontrak sewa. Kami akan membahas hal ini lebih lanjut sebelum Anda menandatangani kontrak."
+    },
+    {
+      "question": "Bagaimana cara mengecek kondisi lahan yang ingin saya sewa?",
+      "answer": "Anda dapat mengunjungi lahan langsung atau meminta foto dan detail kondisi lahan melalui kami. Kami juga bisa memberikan informasi terkait status tanah tersebut."
+    },
+    {
+      "question": "Apakah ada biaya untuk melakukan kunjungan ke lahan?",
+      "answer": "Tidak, kunjungan ke lahan adalah gratis. Kami hanya memerlukan waktu Anda untuk mengatur jadwal kunjungan."
+    },
+    {
+      "question": "Jika lahan yang saya pilih tidak sesuai, apa yang bisa saya lakukan?",
+      "answer"  :"Jika lahan yang Anda pilih tidak sesuai, kami bisa membantu Anda mencari pilihan lain yang lebih sesuai dengan kebutuhan Anda."
+    },
+    {
+      "question": " Apa yang harus saya bawa saat melakukan kunjungan ke lahan?",
+      "answer": " Anda cukup membawa identitas diri (KTP) untuk kunjungan, dan jika ingin melanjutkan sewa, Anda akan diminta melengkapi dokumen lain saat pengajuan."
+    },
+    {
+      "question": "Selamat pagi",
+      "answer": "Pagi,ada yang bisa saya bantu?"
+    },
+    {
+      "question": "Selamat malam",
+      "answer": "Malam,ada yang bisa saya bantu?"
+    },
+    {
+      "question": "Apa itu layanan chatbot ini?",
+      "answer":" Ini adalah layanan chatbot yang dirancang untuk membantu Anda dengan berbagai informasi dan layanan, mulai dari pemesanan, pertanyaan produk, hingga pertanyaan umum."
+    },
+    {
+      "question": "Bagaimana saya bisa menggunakan chatbot ini?",
+      "answer": "Anda cukup mengajukan pertanyaan atau memberikan perintah, dan saya akan memberikan jawaban atau membantu Anda dengan informasi yang dibutuhkan."
+    },
+    {
+      "question": "Apakah chatbot ini tersedia 24 jam?",
+      "answer": " Ya, saya tersedia 24 jam untuk membantu Anda kapan saja."
+    },
+    {
+      "question": "Apakah saya perlu membuat akun untuk menggunakan layanan ini?",
+      "answer": "Tidak, Anda tidak perlu membuat akun untuk menggunakan layanan ini. Anda bisa langsung bertanya dan mendapatkan jawaban."
+    },
+    {
+      "question": "Apa yang bisa saya lakukan dengan chatbot ini?",
+      "answer": "Anda bisa meminta informasi, mendapatkan bantuan dengan pemesanan, melaporkan masalah, atau bahkan mencari produk yang Anda butuhkan."
+    },
+    {
+      "question": "Apakah ada biaya tambahan dalam pembayaran?",
+      "answer": "Tergantung pada layanan atau produk yang Anda pilih, ada beberapa biaya tambahan seperti biaya pengiriman atau biaya administrasi."
+    },
+    {
+      "question": "Bagaimana cara mengajukan refund?",
+      "answer": "Anda bisa mengajukan refund dengan menghubungi customer service atau melalui menu pengembalian produk pada akun Anda."
+    },
+    {
+      "question": " Apakah lahan ini tersedia di stok?",
+      "answer": " Saya bisa memeriksa lahan yang Anda inginkan. Sebutkan nama lahan atau kategori untuk saya cek."
+    },
+    {
+      "question": "Apakah lahan ini aman untuk digunakan?",
+      "answer": "Ya,lahan ini aman untuk digunakan"
+    },
+    {
+      "question": "Bagaimana cara membuat akun di platform ini?",
+      "answer": "Anda bisa membuat akun dengan mengisi formulir pendaftaran di halaman registrasi, menggunakan email atau akun media sosial."
+    },
+    {
+      "question": "Lupa password, bagaimana cara meresetnya?",
+      "answer": "Anda dapat mereset password melalui opsi Lupa Password pada halaman login, lalu ikuti instruksi untuk membuat password baru."
+    },
+    {
+      "question": "Bagaimana cara memperbarui informasi akun saya?",
+      "answer": "Anda bisa memperbarui informasi akun Anda di bagian Pengaturan Akun setelah login, termasuk alamat, kontak, dan preferensi lainnya."
+    },
+    {
+      "question": "Apakah saya bisa menghapus akun saya?",
+      "answer": "Ya, jika Anda ingin menghapus akun, Anda bisa menghubungi customer service untuk membantu proses penghapusan akun."
+    },
+    {
+      "question": "Apa yang harus saya lakukan jika akun saya diblokir?",
+      "answer": "Jika akun Anda diblokir, Anda dapat menghubungi customer service untuk mengetahui alasan pemblokiran dan meminta solusi."
+    },
+    {
+      "question": "Bagaimana cara menggunakan fitur pencarian produk?",
+      "answer": "Anda dapat mengetik nama produk atau kategori yang Anda cari di kolom pencarian untuk menemukan hasil yang relevan."
+    },
+    {
+      "question": " Bagaimana cara menghubungi customer service?",
+      "answer": "Anda bisa menghubungi customer service melalui email, nomor telepon, atau live chat yang tersedia di halaman kontak."
+    },
+    {
+      "question": "Apakah ada aplikasi mobile untuk layanan ini?", 
+      "answer": "Tidak"
+    },
+    {
+      "question": "Apakah informasi saya aman di platform ini?", 
+      "answer": "Ya, kami menggunakan enkripsi dan sistem keamanan terbaru untuk melindungi informasi pribadi Anda."
+    },
+    {
+      "question": "Bagaimana cara mengubah pengaturan privasi saya?",
+      "answer": "Anda bisa mengubah pengaturan privasi di bagian Pengaturan Akun untuk memilih apa yang ingin dibagikan atau disembunyikan."
+    },
+    {
+      "question": "Apakah saya bisa menghapus data pribadi saya dari sistem?", 
+      "answer": "Anda bisa menghubungi kami untuk meminta penghapusan data pribadi dari sistem kami sesuai dengan kebijakan privasi yang berlaku."
+    },
+    {
+      "question": "Apakah transaksi saya aman di platform ini?", 
+      "answer": "Ya, semua transaksi menggunakan sistem pembayaran yang aman dan terverifikasi untuk melindungi data kartu Anda."
+    },
+    {
+      "question": "Apakah platform ini memiliki sertifikasi keamanan?",
+      "answer": "Kami telah mendapatkan sertifikasi keamanan standar industri untuk melindungi data pelanggan dan transaksi online."
+    },
+    {
+      "question": " Apakah layanan ini tersedia di kota saya?", 
+      "answer": "Kami menyediakan layanan di banyak kota. Berikan nama kota Anda dan saya akan memeriksa ketersediaannya untuk Anda." 
+    },
+    {
+      "question": " Apakah ada cabang atau toko fisik di dekat saya?", 
+      "answer": "Tidak."
+    },
+    {
+      "question": "Bagaimana cara mengajukan keluhan?", 
+      "answer": "Anda bisa mengajukan keluhan melalui formulir pengaduan di situs kami atau menghubungi customer service melalui chat atau email."
+    },
+    {
+      "question": "Apakah layanan pelanggan tersedia dalam bahasa lain selain bahasa Indonesia?", 
+      "answer": "Ya, layanan pelanggan kami tersedia dalam beberapa bahasa, termasuk Inggris. Anda bisa memilih bahasa sesuai preferensi Anda."
+    },
+    {
+      "question": "Berapa lama waktu tanggapan layanan pelanggan?", 
+      "answer": "Kami berusaha merespons dalam waktu 24 jam. Jika Anda membutuhkan bantuan segera, Anda bisa mencoba fitur live chat."
+    },
+    {
+      "question": "Apakah saya bisa menghubungi layanan pelanggan lewat telepon?", 
+      "answer": "Ya, kami menyediakan layanan pelanggan melalui telepon. Anda bisa menemukan nomor kontak di halaman Kontak Kami."
+    },
+    {
+      "question": "Apakah ada program loyalitas untuk pelanggan tetap?", 
+      "answer": "Ya, kami memiliki program loyalitas untuk pelanggan tetap, yang memberikan diskon khusus dan hadiah setelah pembelian tertentu."
+    },
+    {
+      "question": "Apakah ada diskon untuk pelanggan baru?", 
+      "answer": "Ya, kami sering memberikan diskon khusus untuk pelanggan baru. Pastikan untuk memeriksa email konfirmasi pendaftaran atau halaman promo kami."
+    },
+    {
+      "question": "Bagaimana cara mendapatkan kupon diskon?", 
+      "answer": "Anda bisa mendapatkan kupon diskon dengan mengikuti kami di media sosial."
+    },
+    {
+      "question": "Apakah diskon dapat digabungkan dengan promo lainnya?", 
+      "answer": "Biasanya, diskon tidak dapat digabungkan dengan promo lain, tetapi Anda bisa memeriksa syarat dan ketentuan untuk memastikan."
+    },
+    {
+      "question": " Apa itu promo flash sale?", 
+      "answer": "Promo flash sale adalah penawaran terbatas dengan diskon besar untuk produk tertentu, biasanya berlangsung hanya dalam beberapa jam atau hari."
+    },
+    {
+      "question": "Bagaimana cara mengetahui promo terbaru?",
+      "answer": "Anda bisa memeriksa bagian Promo Terbaru di situs kami atau mengikuti kami di media sosial untuk pembaruan terbaru tentang diskon dan penawaran."
+    },
+    {
+      "question": "Apakah ada promo khusus untuk pembelian dalam jumlah besar?", 
+      "answer": "Ya, kami menawarkan diskon untuk pembelian dalam jumlah besar. Silakan hubungi kami untuk mendapatkan penawaran khusus."
+    },
+    {
+      "question": "Bisakah saya menggunakan kode promo pada transaksi saya?",
+      "answer": "Tentu! Masukkan kode promo saat checkout untuk mendapatkan diskon sesuai dengan syarat dan ketentuan yang berlaku."
+    },
+    {
+      "question": "Apakah ada promo spesial untuk hari libur atau perayaan?",
+      "answer": "Kami sering mengadakan promo spesial pada hari libur besar atau perayaan tertentu, seperti diskon atau hadiah untuk pelanggan."
+    },
+    {
+      "question": "Bagaimana cara mengubah email akun saya?",
+      "answer": "Anda dapat mengubah alamat email di bagian Pengaturan Akun setelah login ke platform kami."
+    },
+    {
+      "question": "Apakah saya bisa memiliki lebih dari satu akun?",
+      "answer": "Secara umum, Anda hanya bisa memiliki satu akun untuk setiap alamat email. Jika ada masalah, kami bisa membantu."
+    },
+    {
+      "question": "Mengapa saya tidak bisa masuk ke akun saya?",
+      "answer": "Pastikan Anda memasukkan email dan password dengan benar. Jika masalah masih terjadi, coba reset password atau hubungi customer service kami."
+    },
+    {
+      "question": " Bagaimana cara menghapus akun saya?",
+      "answer": "Anda bisa menghapus akun dengan menghubungi customer service kami untuk proses lebih lanjut."
+    },
+    {
+      "question": "Apakah data saya aman saat bertransaksi di situs ini?",
+      "answer": "Ya, kami menggunakan enkripsi dan teknologi keamanan untuk melindungi informasi pribadi dan transaksi Anda."
+    },
+    {
+      "question": "Apakah situs ini dilengkapi dengan proteksi anti-penipuan?",
+      "answer": "Ya, kami memiliki sistem deteksi penipuan untuk melindungi Anda dari transaksi yang mencurigakan."
+    },
+    {
+      "question": "Apakah Anda membagikan informasi pribadi saya kepada pihak ketiga?",
+      "answer": "Kami tidak membagikan informasi pribadi Anda kepada pihak ketiga tanpa izin Anda, kecuali untuk keperluan pengiriman atau kewajiban hukum."
+    },
+    {
+      "question": "Bagaimana saya bisa memastikan transaksi saya aman?",
+      "answer": "Pastikan Anda menggunakan metode pembayaran yang aman dan memeriksa URL situs untuk memastikan bahwa Anda bertransaksi di situs yang aman."
+    },
+    {
+      "question": "Apakah saya bisa mengubah pengaturan privasi saya?",
+      "answer": "Ya, Anda bisa mengubah pengaturan privasi Anda melalui akun untuk memilih informasi mana yang ingin Anda bagikan."
+    },
+    {
+      "question": "Bagaimana cara menggunakan fitur pencarian produk?",
+      "answer": "Anda bisa mengetikkan nama produk atau kategori di kotak pencarian, dan saya akan membantu menemukan produk yang sesuai."
+    },
+    {
+      "question": "Apakah saya bisa menyimpan produk favorit saya?",
+      "answer": "Anda bisa menambahkan produk ke daftar favorit atau wishlist di akun Anda untuk membeli nanti."
+    },
+    {
+      "question": "Apakah situs ini memiliki fitur bandingkan produk?",
+      "answer": "Ya, kami memiliki fitur untuk membandingkan beberapa produk berdasarkan spesifikasi dan harga."
+    },
+    {
+      "question": "Apakah saya bisa melihat riwayat pembelian saya?",
+      "answer": "Ya, Anda dapat melihat riwayat pembelian di bagian Akun Saya pada profil Anda."
+    },
+    {
+      "question": "Bagaimana cara memberikan ulasan untuk produk yang sudah saya beli?",
+      "answer": " Anda bisa memberikan ulasan produk setelah melakukan pembelian melalui halaman produk. Cukup beri penilaian dan komentar Anda."
+    },
+    {
+      "question": "Apakah saya bisa mendapatkan bantuan langsung dari manusia?",
+      "answer": "Tentu, jika Anda membutuhkan bantuan lebih lanjut, kami dapat menghubungkan Anda dengan customer service manusia."
+    },
+    {
+      "question": "Apakah layanan ini terbatas hanya pada produk tertentu?",
+      "answer": "Kami menawarkan layanan untuk berbagai jenis produk dan layanan, jadi silakan beri tahu saya produk atau kategori yang Anda cari."
+    },
+    {
+      "question": "Apakah ada biaya untuk menggunakan layanan ini?",
+      "answer": "Layanan chatbot ini gratis untuk digunakan. Namun, biaya tertentu mungkin berlaku untuk layanan atau produk tertentu."
+    },
+    {
+      "question": "Apa itu land rent?",
+      "answer": "Land rent adalah sebuah web yang menyediakan jasa sewa lahan tanah."
+    },
+    {
+      "question": "Apakah ada batasan waktu untuk sewa lahan?",
+      "answer": "Biasanya kami menawarkan pilihan sewa jangka pendek (bulanan) hingga jangka panjang (tahunan)."
+    },
+    {
+      "question": "Berapa harga sewa lahan perbulan?",
+      "answer": "Harga sewa lahan bisa bervariasi tergantung lokasi, ukuran, dan jenis lahan. ?"
+    },
+    {
+      "question": "Apa saja fasilitas yang tersedia dilahan yang disewakan?",
+      "answer": "Fasilitas yang tersedia bisa berbeda-beda tergantung lokasi dan jenis lahan. Beberapa lahan dilengkapi dengan akses jalan, sumber air, dan listrik.."
+    },
+    {
+      "question": "Bagaimana prosedur sewa lahan?",
+      "answer": "Prosedur sewa lahan kami cukup mudah. Setelah memilih lahan yang diinginkan, Anda akan diminta untuk mengisi formulir sewa dan menandatangani kontrak. Pembayaran bisa dilakukan melalui transfer bank atau tunai.."
+    },
+    {
+      "question": "Apakah saya bisa melihat lahan terlebih dahulu sebelum memutuskan?",
+      "answer": "Tentu! Anda bisa mengunjungi lahan terlebih dahulu untuk memastikan kondisi dan kecocokannya dengan kebutuhan Anda. ."
+    },
+    {
+      "question": "Apa yang terjadi jika saya ingin mengakhiri kontrak sewa lebih awal?",
+      "answer": "Jika Anda ingin mengakhiri kontrak sewa sebelum waktu yang disepakati, biasanya ada biaya pemutusan kontrak lebih awal. Ketentuan ini bisa bervariasi tergantung pada durasi kontrak dan syarat yang telah disepakati."
+    },
+    {
+      "question": "Terima kasih",
+      "answer": "Sama-sama! Jika ada yang lain yang perlu dibantu, jangan ragu untuk bertanya."
+    },
+    {
+      "question": "Bye",
+      "answer": "Selamat tinggal! Semoga hari Anda menyenankan."
+    },
+    {
+      "question": "Apa yang terjadi jika saya ingin mengakhiri kontrak sewa lebih awal?",
+      "answer": "Jika anda ingin mengakhiri kontrak sewa sebelum waktu yang disepakati,biasanya ada biaya pemutusan kontrak lebih awal."
+    },
+    {
+      "question": "Apakah lahan ini bisa digunakan untuk kegiatan pertanian?",
+      "answer": "Ya,website yang kita sediakan terakit sewa lahan pertanian."
+    },
+    {
+      "question": "Apa persyaratan untuk menyewa lahan?",
+      "answer": "Persyaratan umum untuk menyewa lahan termasuk identitas diri (KTP atau paspor), bukti alamat, dan untuk sewa jangka panjang, bisa dibutuhkan referensi atau informasi usaha."
+    },
+    {
+      "question": "Apakah ada diskon atau promo untuk penyewa baru?",
+      "answer": " Kami terkadang menawarkan promo atau diskon untuk penyewa baru, tergantung pada periode tertentu. Apakah Anda tertarik untuk mengetahui lebih lanjut tentang promosi yang sedang berlangsung?"
+    },
+    {
+      "question": "Apakah lahan yang disewakan dilengkapi dengan sumber air?",
+      "answer": "Beberapa lahan kami dilengkapi dengan sumber air seperti sumur atau irigasi. Anda bisa memilih lahan yang sesuai dengan kebutuhan Anda."
+    },
+    {
+      "question": " Apakah lahan dilengkapi dengan listrik dan akses jalan?",
+      "answer": " Kami menyediakan lahan dengan berbagai fasilitas, termasuk akses jalan dan listrik di lokasi tertentu. Anda bisa memilih lahan dengan fasilitas yang Anda butuhkan."
+    },
+    {
+      "question": "Dapatkah saya menanam tanaman di lahan yang saya sewa?",
+      "answer": "Tentu! Anda bisa menggunakan lahan untuk kegiatan pertanian, seperti menanam tanaman. Kami akan memberikan informasi terkait jenis tanah dan keperluan lainnya."
+    },
+    {
+      "question": "Apakah saya bisa memodifikasi lahan yang disewa?",
+      "answer": " Beberapa perubahan atau modifikasi lahan bisa dilakukan, tergantung pada ketentuan dalam kontrak sewa. Kami akan membahas hal ini lebih lanjut sebelum Anda menandatangani kontrak."
+    },
+    {
+      "question": "Bagaimana cara mengecek kondisi lahan yang ingin saya sewa?",
+      "answer": "Anda dapat mengunjungi lahan langsung atau meminta foto dan detail kondisi lahan melalui kami. Kami juga bisa memberikan informasi terkait status tanah tersebut."
+    },
+    {
+      "question": "Apakah ada biaya untuk melakukan kunjungan ke lahan?",
+      "answer": "Tidak, kunjungan ke lahan adalah gratis. Kami hanya memerlukan waktu Anda untuk mengatur jadwal kunjungan."
+    },
+    {
+      "question": "Jika lahan yang saya pilih tidak sesuai, apa yang bisa saya lakukan?",
+      "answer"  :"Jika lahan yang Anda pilih tidak sesuai, kami bisa membantu Anda mencari pilihan lain yang lebih sesuai dengan kebutuhan Anda."
+    },
+    {
+      "question": " Apa yang harus saya bawa saat melakukan kunjungan ke lahan?",
+      "answer": " Anda cukup membawa identitas diri (KTP) untuk kunjungan, dan jika ingin melanjutkan sewa, Anda akan diminta melengkapi dokumen lain saat pengajuan."
+    },
+    {
+      "question": "Selamat pagi",
+      "answer": "Pagi,ada yang bisa saya bantu?"
+    },
+    {
+      "question": "Selamat malam",
+      "answer": "Malam,ada yang bisa saya bantu?"
+    },
+    {
+      "question": "Apa itu layanan chatbot ini?",
+      "answer":" Ini adalah layanan chatbot yang dirancang untuk membantu Anda dengan berbagai informasi dan layanan, mulai dari pemesanan, pertanyaan produk, hingga pertanyaan umum."
+    },
+    {
+      "question": "Bagaimana saya bisa menggunakan chatbot ini?",
+      "answer": "Anda cukup mengajukan pertanyaan atau memberikan perintah, dan saya akan memberikan jawaban atau membantu Anda dengan informasi yang dibutuhkan."
+    },
+    {
+      "question": "Apakah chatbot ini tersedia 24 jam?",
+      "answer": " Ya, saya tersedia 24 jam untuk membantu Anda kapan saja."
+    },
+    {
+      "question": "Apakah saya perlu membuat akun untuk menggunakan layanan ini?",
+      "answer": "Tidak, Anda tidak perlu membuat akun untuk menggunakan layanan ini. Anda bisa langsung bertanya dan mendapatkan jawaban."
+    },
+    {
+      "question": "Apa yang bisa saya lakukan dengan chatbot ini?",
+      "answer": "Anda bisa meminta informasi, mendapatkan bantuan dengan pemesanan, melaporkan masalah, atau bahkan mencari produk yang Anda butuhkan."
+    },
+    {
+      "question": "Apakah ada biaya tambahan dalam pembayaran?",
+      "answer": "Tergantung pada layanan atau produk yang Anda pilih, ada beberapa biaya tambahan seperti biaya pengiriman atau biaya administrasi."
+    },
+    {
+      "question": "Bagaimana cara mengajukan refund?",
+      "answer": "Anda bisa mengajukan refund dengan menghubungi customer service atau melalui menu pengembalian produk pada akun Anda."
+    },
+    {
+      "question": " Apakah lahan ini tersedia di stok?",
+      "answer": " Saya bisa memeriksa lahan yang Anda inginkan. Sebutkan nama lahan atau kategori untuk saya cek."
+    },
+    {
+      "question": "Apakah lahan ini aman untuk digunakan?",
+      "answer": "Ya,lahan ini aman untuk digunakan"
+    },
+    {
+      "question": "Bagaimana cara membuat akun di platform ini?",
+      "answer": "Anda bisa membuat akun dengan mengisi formulir pendaftaran di halaman registrasi, menggunakan email atau akun media sosial."
+    },
+    {
+      "question": "Lupa password, bagaimana cara meresetnya?",
+      "answer": "Anda dapat mereset password melalui opsi Lupa Password pada halaman login, lalu ikuti instruksi untuk membuat password baru."
+    },
+    {
+      "question": "Bagaimana cara memperbarui informasi akun saya?",
+      "answer": "Anda bisa memperbarui informasi akun Anda di bagian Pengaturan Akun setelah login, termasuk alamat, kontak, dan preferensi lainnya."
+    },
+    {
+      "question": "Apakah saya bisa menghapus akun saya?",
+      "answer": "Ya, jika Anda ingin menghapus akun, Anda bisa menghubungi customer service untuk membantu proses penghapusan akun."
+    },
+    {
+      "question": "Apa yang harus saya lakukan jika akun saya diblokir?",
+      "answer": "Jika akun Anda diblokir, Anda dapat menghubungi customer service untuk mengetahui alasan pemblokiran dan meminta solusi."
+    },
+    {
+      "question": "Bagaimana cara menggunakan fitur pencarian produk?",
+      "answer": "Anda dapat mengetik nama produk atau kategori yang Anda cari di kolom pencarian untuk menemukan hasil yang relevan."
+    },
+    {
+      "question": " Bagaimana cara menghubungi customer service?",
+      "answer": "Anda bisa menghubungi customer service melalui email, nomor telepon, atau live chat yang tersedia di halaman kontak."
+    },
+    {
+      "question": "Apakah ada aplikasi mobile untuk layanan ini?", 
+      "answer": "Tidak"
+    },
+    {
+      "question": "Apakah informasi saya aman di platform ini?", 
+      "answer": "Ya, kami menggunakan enkripsi dan sistem keamanan terbaru untuk melindungi informasi pribadi Anda."
+    },
+    {
+      "question": "Bagaimana cara mengubah pengaturan privasi saya?",
+      "answer": "Anda bisa mengubah pengaturan privasi di bagian Pengaturan Akun untuk memilih apa yang ingin dibagikan atau disembunyikan."
+    },
+    {
+      "question": "Apakah saya bisa menghapus data pribadi saya dari sistem?", 
+      "answer": "Anda bisa menghubungi kami untuk meminta penghapusan data pribadi dari sistem kami sesuai dengan kebijakan privasi yang berlaku."
+    },
+    {
+      "question": "Apakah transaksi saya aman di platform ini?", 
+      "answer": "Ya, semua transaksi menggunakan sistem pembayaran yang aman dan terverifikasi untuk melindungi data kartu Anda."
+    },
+    {
+      "question": "Apakah platform ini memiliki sertifikasi keamanan?",
+      "answer": "Kami telah mendapatkan sertifikasi keamanan standar industri untuk melindungi data pelanggan dan transaksi online."
+    },
+    {
+      "question": " Apakah layanan ini tersedia di kota saya?", 
+      "answer": "Kami menyediakan layanan di banyak kota. Berikan nama kota Anda dan saya akan memeriksa ketersediaannya untuk Anda." 
+    },
+    {
+      "question": " Apakah ada cabang atau toko fisik di dekat saya?", 
+      "answer": "Tidak."
+    },
+    {
+      "question": "Bagaimana cara mengajukan keluhan?", 
+      "answer": "Anda bisa mengajukan keluhan melalui formulir pengaduan di situs kami atau menghubungi customer service melalui chat atau email."
+    },
+    {
+      "question": "Apakah layanan pelanggan tersedia dalam bahasa lain selain bahasa Indonesia?", 
+      "answer": "Ya, layanan pelanggan kami tersedia dalam beberapa bahasa, termasuk Inggris. Anda bisa memilih bahasa sesuai preferensi Anda."
+    },
+    {
+      "question": "Berapa lama waktu tanggapan layanan pelanggan?", 
+      "answer": "Kami berusaha merespons dalam waktu 24 jam. Jika Anda membutuhkan bantuan segera, Anda bisa mencoba fitur live chat."
+    },
+    {
+      "question": "Apakah saya bisa menghubungi layanan pelanggan lewat telepon?", 
+      "answer": "Ya, kami menyediakan layanan pelanggan melalui telepon. Anda bisa menemukan nomor kontak di halaman Kontak Kami."
+    },
+    {
+      "question": "Apakah ada program loyalitas untuk pelanggan tetap?", 
+      "answer": "Ya, kami memiliki program loyalitas untuk pelanggan tetap, yang memberikan diskon khusus dan hadiah setelah pembelian tertentu."
+    },
+    {
+      "question": "Apakah ada diskon untuk pelanggan baru?", 
+      "answer": "Ya, kami sering memberikan diskon khusus untuk pelanggan baru. Pastikan untuk memeriksa email konfirmasi pendaftaran atau halaman promo kami."
+    },
+    {
+      "question": "Bagaimana cara mendapatkan kupon diskon?", 
+      "answer": "Anda bisa mendapatkan kupon diskon dengan mengikuti kami di media sosial."
+    },
+    {
+      "question": "Apakah diskon dapat digabungkan dengan promo lainnya?", 
+      "answer": "Biasanya, diskon tidak dapat digabungkan dengan promo lain, tetapi Anda bisa memeriksa syarat dan ketentuan untuk memastikan."
+    },
+    {
+      "question": " Apa itu promo flash sale?", 
+      "answer": "Promo flash sale adalah penawaran terbatas dengan diskon besar untuk produk tertentu, biasanya berlangsung hanya dalam beberapa jam atau hari."
+    },
+    {
+      "question": "Bagaimana cara mengetahui promo terbaru?",
+      "answer": "Anda bisa memeriksa bagian Promo Terbaru di situs kami atau mengikuti kami di media sosial untuk pembaruan terbaru tentang diskon dan penawaran."
+    },
+    {
+      "question": "Apakah ada promo khusus untuk pembelian dalam jumlah besar?", 
+      "answer": "Ya, kami menawarkan diskon untuk pembelian dalam jumlah besar. Silakan hubungi kami untuk mendapatkan penawaran khusus."
+    },
+    {
+      "question": "Bisakah saya menggunakan kode promo pada transaksi saya?",
+      "answer": "Tentu! Masukkan kode promo saat checkout untuk mendapatkan diskon sesuai dengan syarat dan ketentuan yang berlaku."
+    },
+    {
+      "question": "Apakah ada promo spesial untuk hari libur atau perayaan?",
+      "answer": "Kami sering mengadakan promo spesial pada hari libur besar atau perayaan tertentu, seperti diskon atau hadiah untuk pelanggan."
+    },
+    {
+      "question": "Bagaimana cara mengubah email akun saya?",
+      "answer": "Anda dapat mengubah alamat email di bagian Pengaturan Akun setelah login ke platform kami."
+    },
+    {
+      "question": "Apakah saya bisa memiliki lebih dari satu akun?",
+      "answer": "Secara umum, Anda hanya bisa memiliki satu akun untuk setiap alamat email. Jika ada masalah, kami bisa membantu."
+    },
+    {
+      "question": "Mengapa saya tidak bisa masuk ke akun saya?",
+      "answer": "Pastikan Anda memasukkan email dan password dengan benar. Jika masalah masih terjadi, coba reset password atau hubungi customer service kami."
+    },
+    {
+      "question": " Bagaimana cara menghapus akun saya?",
+      "answer": "Anda bisa menghapus akun dengan menghubungi customer service kami untuk proses lebih lanjut."
+    },
+    {
+      "question": "Apakah data saya aman saat bertransaksi di situs ini?",
+      "answer": "Ya, kami menggunakan enkripsi dan teknologi keamanan untuk melindungi informasi pribadi dan transaksi Anda."
+    },
+    {
+      "question": "Apakah situs ini dilengkapi dengan proteksi anti-penipuan?",
+      "answer": "Ya, kami memiliki sistem deteksi penipuan untuk melindungi Anda dari transaksi yang mencurigakan."
+    },
+    {
+      "question": "Apakah Anda membagikan informasi pribadi saya kepada pihak ketiga?",
+      "answer": "Kami tidak membagikan informasi pribadi Anda kepada pihak ketiga tanpa izin Anda, kecuali untuk keperluan pengiriman atau kewajiban hukum."
+    },
+    {
+      "question": "Bagaimana saya bisa memastikan transaksi saya aman?",
+      "answer": "Pastikan Anda menggunakan metode pembayaran yang aman dan memeriksa URL situs untuk memastikan bahwa Anda bertransaksi di situs yang aman."
+    },
+    {
+      "question": "Apakah saya bisa mengubah pengaturan privasi saya?",
+      "answer": "Ya, Anda bisa mengubah pengaturan privasi Anda melalui akun untuk memilih informasi mana yang ingin Anda bagikan."
+    },
+    {
+      "question": "Bagaimana cara menggunakan fitur pencarian produk?",
+      "answer": "Anda bisa mengetikkan nama produk atau kategori di kotak pencarian, dan saya akan membantu menemukan produk yang sesuai."
+    },
+    {
+      "question": "Apakah saya bisa menyimpan produk favorit saya?",
+      "answer": "Anda bisa menambahkan produk ke daftar favorit atau wishlist di akun Anda untuk membeli nanti."
+    },
+    {
+      "question": "Apakah situs ini memiliki fitur bandingkan produk?",
+      "answer": "Ya, kami memiliki fitur untuk membandingkan beberapa produk berdasarkan spesifikasi dan harga."
+    },
+    {
+      "question": "Apakah saya bisa melihat riwayat pembelian saya?",
+      "answer": "Ya, Anda dapat melihat riwayat pembelian di bagian Akun Saya pada profil Anda."
+    },
+    {
+      "question": "Bagaimana cara memberikan ulasan untuk produk yang sudah saya beli?",
+      "answer": " Anda bisa memberikan ulasan produk setelah melakukan pembelian melalui halaman produk. Cukup beri penilaian dan komentar Anda."
+    },
+    {
+      "question": "Apakah saya bisa mendapatkan bantuan langsung dari manusia?",
+      "answer": "Tentu, jika Anda membutuhkan bantuan lebih lanjut, kami dapat menghubungkan Anda dengan customer service manusia."
+    },
+    {
+      "question": "Apakah layanan ini terbatas hanya pada produk tertentu?",
+      "answer": "Kami menawarkan layanan untuk berbagai jenis produk dan layanan, jadi silakan beri tahu saya produk atau kategori yang Anda cari."
+    },
+    {
+      "question": "Apakah ada biaya untuk menggunakan layanan ini?",
+      "answer": "Layanan chatbot ini gratis untuk digunakan. Namun, biaya tertentu mungkin berlaku untuk layanan atau produk tertentu."
+    },
+    {
+      "question": "Apa itu land rent?",
+      "answer": "Land rent adalah sebuah web yang menyediakan jasa sewa lahan tanah."
+    },
+    {
+      "question": "Apakah ada batasan waktu untuk sewa lahan?",
+      "answer": "Biasanya kami menawarkan pilihan sewa jangka pendek (bulanan) hingga jangka panjang (tahunan)."
+    },
+    {
+      "question": "Berapa harga sewa lahan perbulan?",
+      "answer": "Harga sewa lahan bisa bervariasi tergantung lokasi, ukuran, dan jenis lahan. ?"
+    },
+    {
+      "question": "Apa saja fasilitas yang tersedia dilahan yang disewakan?",
+      "answer": "Fasilitas yang tersedia bisa berbeda-beda tergantung lokasi dan jenis lahan. Beberapa lahan dilengkapi dengan akses jalan, sumber air, dan listrik.."
+    },
+    {
+      "question": "Bagaimana prosedur sewa lahan?",
+      "answer": "Prosedur sewa lahan kami cukup mudah. Setelah memilih lahan yang diinginkan, Anda akan diminta untuk mengisi formulir sewa dan menandatangani kontrak. Pembayaran bisa dilakukan melalui transfer bank atau tunai.."
+    },
+    {
+      "question": "Apakah saya bisa melihat lahan terlebih dahulu sebelum memutuskan?",
+      "answer": "Tentu! Anda bisa mengunjungi lahan terlebih dahulu untuk memastikan kondisi dan kecocokannya dengan kebutuhan Anda. ."
+    },
+    {
+      "question": "Apa yang terjadi jika saya ingin mengakhiri kontrak sewa lebih awal?",
+      "answer": "Jika Anda ingin mengakhiri kontrak sewa sebelum waktu yang disepakati, biasanya ada biaya pemutusan kontrak lebih awal. Ketentuan ini bisa bervariasi tergantung pada durasi kontrak dan syarat yang telah disepakati."
+    },
+    {
+      "question": "Terima kasih",
+      "answer": "Sama-sama! Jika ada yang lain yang perlu dibantu, jangan ragu untuk bertanya."
+    },
+    {
+      "question": "Bye",
+      "answer": "Selamat tinggal! Semoga hari Anda menyenankan."
+    },
+    {
+      "question": "Apa yang terjadi jika saya ingin mengakhiri kontrak sewa lebih awal?",
+      "answer": "Jika anda ingin mengakhiri kontrak sewa sebelum waktu yang disepakati,biasanya ada biaya pemutusan kontrak lebih awal."
+    },
+    {
+      "question": "Apakah lahan ini bisa digunakan untuk kegiatan pertanian?",
+      "answer": "Ya,website yang kita sediakan terakit sewa lahan pertanian."
+    },
+    {
+      "question": "Apa persyaratan untuk menyewa lahan?",
+      "answer": "Persyaratan umum untuk menyewa lahan termasuk identitas diri (KTP atau paspor), bukti alamat, dan untuk sewa jangka panjang, bisa dibutuhkan referensi atau informasi usaha."
+    },
+    {
+      "question": "Apakah ada diskon atau promo untuk penyewa baru?",
+      "answer": " Kami terkadang menawarkan promo atau diskon untuk penyewa baru, tergantung pada periode tertentu. Apakah Anda tertarik untuk mengetahui lebih lanjut tentang promosi yang sedang berlangsung?"
+    },
+    {
+      "question": "Apakah lahan yang disewakan dilengkapi dengan sumber air?",
+      "answer": "Beberapa lahan kami dilengkapi dengan sumber air seperti sumur atau irigasi. Anda bisa memilih lahan yang sesuai dengan kebutuhan Anda."
+    },
+    {
+      "question": " Apakah lahan dilengkapi dengan listrik dan akses jalan?",
+      "answer": " Kami menyediakan lahan dengan berbagai fasilitas, termasuk akses jalan dan listrik di lokasi tertentu. Anda bisa memilih lahan dengan fasilitas yang Anda butuhkan."
+    },
+    {
+      "question": "Dapatkah saya menanam tanaman di lahan yang saya sewa?",
+      "answer": "Tentu! Anda bisa menggunakan lahan untuk kegiatan pertanian, seperti menanam tanaman. Kami akan memberikan informasi terkait jenis tanah dan keperluan lainnya."
+    },
+    {
+      "question": "Apakah saya bisa memodifikasi lahan yang disewa?",
+      "answer": " Beberapa perubahan atau modifikasi lahan bisa dilakukan, tergantung pada ketentuan dalam kontrak sewa. Kami akan membahas hal ini lebih lanjut sebelum Anda menandatangani kontrak."
+    },
+    {
+      "question": "Bagaimana cara mengecek kondisi lahan yang ingin saya sewa?",
+      "answer": "Anda dapat mengunjungi lahan langsung atau meminta foto dan detail kondisi lahan melalui kami. Kami juga bisa memberikan informasi terkait status tanah tersebut."
+    },
+    {
+      "question": "Apakah ada biaya untuk melakukan kunjungan ke lahan?",
+      "answer": "Tidak, kunjungan ke lahan adalah gratis. Kami hanya memerlukan waktu Anda untuk mengatur jadwal kunjungan."
+    },
+    {
+      "question": "Jika lahan yang saya pilih tidak sesuai, apa yang bisa saya lakukan?",
+      "answer"  :"Jika lahan yang Anda pilih tidak sesuai, kami bisa membantu Anda mencari pilihan lain yang lebih sesuai dengan kebutuhan Anda."
+    },
+    {
+      "question": " Apa yang harus saya bawa saat melakukan kunjungan ke lahan?",
+      "answer": " Anda cukup membawa identitas diri (KTP) untuk kunjungan, dan jika ingin melanjutkan sewa, Anda akan diminta melengkapi dokumen lain saat pengajuan."
+    },
+    {
+      "question": "Selamat pagi",
+      "answer": "Pagi,ada yang bisa saya bantu?"
+    },
+    {
+      "question": "Selamat malam",
+      "answer": "Malam,ada yang bisa saya bantu?"
+    },
+    {
+      "question": "Apa itu layanan chatbot ini?",
+      "answer":" Ini adalah layanan chatbot yang dirancang untuk membantu Anda dengan berbagai informasi dan layanan, mulai dari pemesanan, pertanyaan produk, hingga pertanyaan umum."
+    },
+    {
+      "question": "Bagaimana saya bisa menggunakan chatbot ini?",
+      "answer": "Anda cukup mengajukan pertanyaan atau memberikan perintah, dan saya akan memberikan jawaban atau membantu Anda dengan informasi yang dibutuhkan."
+    },
+    {
+      "question": "Apakah chatbot ini tersedia 24 jam?",
+      "answer": " Ya, saya tersedia 24 jam untuk membantu Anda kapan saja."
+    },
+    {
+      "question": "Apakah saya perlu membuat akun untuk menggunakan layanan ini?",
+      "answer": "Tidak, Anda tidak perlu membuat akun untuk menggunakan layanan ini. Anda bisa langsung bertanya dan mendapatkan jawaban."
+    },
+    {
+      "question": "Apa yang bisa saya lakukan dengan chatbot ini?",
+      "answer": "Anda bisa meminta informasi, mendapatkan bantuan dengan pemesanan, melaporkan masalah, atau bahkan mencari produk yang Anda butuhkan."
+    },
+    {
+      "question": "Apakah ada biaya tambahan dalam pembayaran?",
+      "answer": "Tergantung pada layanan atau produk yang Anda pilih, ada beberapa biaya tambahan seperti biaya pengiriman atau biaya administrasi."
+    },
+    {
+      "question": "Bagaimana cara mengajukan refund?",
+      "answer": "Anda bisa mengajukan refund dengan menghubungi customer service atau melalui menu pengembalian produk pada akun Anda."
+    },
+    {
+      "question": " Apakah lahan ini tersedia di stok?",
+      "answer": " Saya bisa memeriksa lahan yang Anda inginkan. Sebutkan nama lahan atau kategori untuk saya cek."
+    },
+    {
+      "question": "Apakah lahan ini aman untuk digunakan?",
+      "answer": "Ya,lahan ini aman untuk digunakan"
+    },
+    {
+      "question": "Bagaimana cara membuat akun di platform ini?",
+      "answer": "Anda bisa membuat akun dengan mengisi formulir pendaftaran di halaman registrasi, menggunakan email atau akun media sosial."
+    },
+    {
+      "question": "Lupa password, bagaimana cara meresetnya?",
+      "answer": "Anda dapat mereset password melalui opsi Lupa Password pada halaman login, lalu ikuti instruksi untuk membuat password baru."
+    },
+    {
+      "question": "Bagaimana cara memperbarui informasi akun saya?",
+      "answer": "Anda bisa memperbarui informasi akun Anda di bagian Pengaturan Akun setelah login, termasuk alamat, kontak, dan preferensi lainnya."
+    },
+    {
+      "question": "Apakah saya bisa menghapus akun saya?",
+      "answer": "Ya, jika Anda ingin menghapus akun, Anda bisa menghubungi customer service untuk membantu proses penghapusan akun."
+    },
+    {
+      "question": "Apa yang harus saya lakukan jika akun saya diblokir?",
+      "answer": "Jika akun Anda diblokir, Anda dapat menghubungi customer service untuk mengetahui alasan pemblokiran dan meminta solusi."
+    },
+    {
+      "question": "Bagaimana cara menggunakan fitur pencarian produk?",
+      "answer": "Anda dapat mengetik nama produk atau kategori yang Anda cari di kolom pencarian untuk menemukan hasil yang relevan."
+    },
+    {
+      "question": " Bagaimana cara menghubungi customer service?",
+      "answer": "Anda bisa menghubungi customer service melalui email, nomor telepon, atau live chat yang tersedia di halaman kontak."
+    },
+    {
+      "question": "Apakah ada aplikasi mobile untuk layanan ini?", 
+      "answer": "Tidak"
+    },
+    {
+      "question": "Apakah informasi saya aman di platform ini?", 
+      "answer": "Ya, kami menggunakan enkripsi dan sistem keamanan terbaru untuk melindungi informasi pribadi Anda."
+    },
+    {
+      "question": "Bagaimana cara mengubah pengaturan privasi saya?",
+      "answer": "Anda bisa mengubah pengaturan privasi di bagian Pengaturan Akun untuk memilih apa yang ingin dibagikan atau disembunyikan."
+    },
+    {
+      "question": "Apakah saya bisa menghapus data pribadi saya dari sistem?", 
+      "answer": "Anda bisa menghubungi kami untuk meminta penghapusan data pribadi dari sistem kami sesuai dengan kebijakan privasi yang berlaku."
+    },
+    {
+      "question": "Apakah transaksi saya aman di platform ini?", 
+      "answer": "Ya, semua transaksi menggunakan sistem pembayaran yang aman dan terverifikasi untuk melindungi data kartu Anda."
+    },
+    {
+      "question": "Apakah platform ini memiliki sertifikasi keamanan?",
+      "answer": "Kami telah mendapatkan sertifikasi keamanan standar industri untuk melindungi data pelanggan dan transaksi online."
+    },
+    {
+      "question": " Apakah layanan ini tersedia di kota saya?", 
+      "answer": "Kami menyediakan layanan di banyak kota. Berikan nama kota Anda dan saya akan memeriksa ketersediaannya untuk Anda." 
+    },
+    {
+      "question": " Apakah ada cabang atau toko fisik di dekat saya?", 
+      "answer": "Tidak."
+    },
+    {
+      "question": "Bagaimana cara mengajukan keluhan?", 
+      "answer": "Anda bisa mengajukan keluhan melalui formulir pengaduan di situs kami atau menghubungi customer service melalui chat atau email."
+    },
+    {
+      "question": "Apakah layanan pelanggan tersedia dalam bahasa lain selain bahasa Indonesia?", 
+      "answer": "Ya, layanan pelanggan kami tersedia dalam beberapa bahasa, termasuk Inggris. Anda bisa memilih bahasa sesuai preferensi Anda."
+    },
+    {
+      "question": "Berapa lama waktu tanggapan layanan pelanggan?", 
+      "answer": "Kami berusaha merespons dalam waktu 24 jam. Jika Anda membutuhkan bantuan segera, Anda bisa mencoba fitur live chat."
+    },
+    {
+      "question": "Apakah saya bisa menghubungi layanan pelanggan lewat telepon?", 
+      "answer": "Ya, kami menyediakan layanan pelanggan melalui telepon. Anda bisa menemukan nomor kontak di halaman Kontak Kami."
+    },
+    {
+      "question": "Apakah ada program loyalitas untuk pelanggan tetap?", 
+      "answer": "Ya, kami memiliki program loyalitas untuk pelanggan tetap, yang memberikan diskon khusus dan hadiah setelah pembelian tertentu."
+    },
+    {
+      "question": "Apakah ada diskon untuk pelanggan baru?", 
+      "answer": "Ya, kami sering memberikan diskon khusus untuk pelanggan baru. Pastikan untuk memeriksa email konfirmasi pendaftaran atau halaman promo kami."
+    },
+    {
+      "question": "Bagaimana cara mendapatkan kupon diskon?", 
+      "answer": "Anda bisa mendapatkan kupon diskon dengan mengikuti kami di media sosial."
+    },
+    {
+      "question": "Apakah diskon dapat digabungkan dengan promo lainnya?", 
+      "answer": "Biasanya, diskon tidak dapat digabungkan dengan promo lain, tetapi Anda bisa memeriksa syarat dan ketentuan untuk memastikan."
+    },
+    {
+      "question": " Apa itu promo flash sale?", 
+      "answer": "Promo flash sale adalah penawaran terbatas dengan diskon besar untuk produk tertentu, biasanya berlangsung hanya dalam beberapa jam atau hari."
+    },
+    {
+      "question": "Bagaimana cara mengetahui promo terbaru?",
+      "answer": "Anda bisa memeriksa bagian Promo Terbaru di situs kami atau mengikuti kami di media sosial untuk pembaruan terbaru tentang diskon dan penawaran."
+    },
+    {
+      "question": "Apakah ada promo khusus untuk pembelian dalam jumlah besar?", 
+      "answer": "Ya, kami menawarkan diskon untuk pembelian dalam jumlah besar. Silakan hubungi kami untuk mendapatkan penawaran khusus."
+    },
+    {
+      "question": "Bisakah saya menggunakan kode promo pada transaksi saya?",
+      "answer": "Tentu! Masukkan kode promo saat checkout untuk mendapatkan diskon sesuai dengan syarat dan ketentuan yang berlaku."
+    },
+    {
+      "question": "Apakah ada promo spesial untuk hari libur atau perayaan?",
+      "answer": "Kami sering mengadakan promo spesial pada hari libur besar atau perayaan tertentu, seperti diskon atau hadiah untuk pelanggan."
+    },
+    {
+      "question": "Bagaimana cara mengubah email akun saya?",
+      "answer": "Anda dapat mengubah alamat email di bagian Pengaturan Akun setelah login ke platform kami."
+    },
+    {
+      "question": "Apakah saya bisa memiliki lebih dari satu akun?",
+      "answer": "Secara umum, Anda hanya bisa memiliki satu akun untuk setiap alamat email. Jika ada masalah, kami bisa membantu."
+    },
+    {
+      "question": "Mengapa saya tidak bisa masuk ke akun saya?",
+      "answer": "Pastikan Anda memasukkan email dan password dengan benar. Jika masalah masih terjadi, coba reset password atau hubungi customer service kami."
+    },
+    {
+      "question": " Bagaimana cara menghapus akun saya?",
+      "answer": "Anda bisa menghapus akun dengan menghubungi customer service kami untuk proses lebih lanjut."
+    },
+    {
+      "question": "Apakah data saya aman saat bertransaksi di situs ini?",
+      "answer": "Ya, kami menggunakan enkripsi dan teknologi keamanan untuk melindungi informasi pribadi dan transaksi Anda."
+    },
+    {
+      "question": "Apakah situs ini dilengkapi dengan proteksi anti-penipuan?",
+      "answer": "Ya, kami memiliki sistem deteksi penipuan untuk melindungi Anda dari transaksi yang mencurigakan."
+    },
+    {
+      "question": "Apakah Anda membagikan informasi pribadi saya kepada pihak ketiga?",
+      "answer": "Kami tidak membagikan informasi pribadi Anda kepada pihak ketiga tanpa izin Anda, kecuali untuk keperluan pengiriman atau kewajiban hukum."
+    },
+    {
+      "question": "Bagaimana saya bisa memastikan transaksi saya aman?",
+      "answer": "Pastikan Anda menggunakan metode pembayaran yang aman dan memeriksa URL situs untuk memastikan bahwa Anda bertransaksi di situs yang aman."
+    },
+    {
+      "question": "Apakah saya bisa mengubah pengaturan privasi saya?",
+      "answer": "Ya, Anda bisa mengubah pengaturan privasi Anda melalui akun untuk memilih informasi mana yang ingin Anda bagikan."
+    },
+    {
+      "question": "Bagaimana cara menggunakan fitur pencarian produk?",
+      "answer": "Anda bisa mengetikkan nama produk atau kategori di kotak pencarian, dan saya akan membantu menemukan produk yang sesuai."
+    },
+    {
+      "question": "Apakah saya bisa menyimpan produk favorit saya?",
+      "answer": "Anda bisa menambahkan produk ke daftar favorit atau wishlist di akun Anda untuk membeli nanti."
+    },
+    {
+      "question": "Apakah situs ini memiliki fitur bandingkan produk?",
+      "answer": "Ya, kami memiliki fitur untuk membandingkan beberapa produk berdasarkan spesifikasi dan harga."
+    },
+    {
+      "question": "Apakah saya bisa melihat riwayat pembelian saya?",
+      "answer": "Ya, Anda dapat melihat riwayat pembelian di bagian Akun Saya pada profil Anda."
+    },
+    {
+      "question": "Bagaimana cara memberikan ulasan untuk produk yang sudah saya beli?",
+      "answer": " Anda bisa memberikan ulasan produk setelah melakukan pembelian melalui halaman produk. Cukup beri penilaian dan komentar Anda."
+    },
+    {
+      "question": "Apakah saya bisa mendapatkan bantuan langsung dari manusia?",
+      "answer": "Tentu, jika Anda membutuhkan bantuan lebih lanjut, kami dapat menghubungkan Anda dengan customer service manusia."
+    },
+    {
+      "question": "Apakah layanan ini terbatas hanya pada produk tertentu?",
+      "answer": "Kami menawarkan layanan untuk berbagai jenis produk dan layanan, jadi silakan beri tahu saya produk atau kategori yang Anda cari."
+    },
+    {
+      "question": "Apakah ada biaya untuk menggunakan layanan ini?",
+      "answer": "Layanan chatbot ini gratis untuk digunakan. Namun, biaya tertentu mungkin berlaku untuk layanan atau produk tertentu."
+    }
+  ]
+

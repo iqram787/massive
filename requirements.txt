@@ -1,0 +1,7 @@
+Flask
+flask_cors
+numpy
+torch
+transformers
+sentencepiece
+protobuf
